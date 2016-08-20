@@ -2,7 +2,7 @@
   "name": "troly247",
   "version": "1.0.0",
   "description": "Troly247 website",
-  "main": "index.js",
+  "main": "./node_modules/http-server/bin/http-server .",
   "dependencies": {
     "http-server": "^0.9.0"
   },
